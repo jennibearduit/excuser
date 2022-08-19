@@ -9,11 +9,6 @@ All you have to do is:
 2. Select the number of excuses (1-10)
 3. Click "Submit"
 
-## Home Page
+## Display
 
-<img width="490" alt="Screenshot 2022-02-28 at 5 16 11 PM" src="https://user-images.githubusercontent.com/77873928/155956649-9504ab5d-d40c-4831-b777-12bc77d791d0.png">
-
-
-## Note
-
-This project is still a work in progress, and there will be future enhancements.
+<img width="314" alt="Screenshot 2022-08-19 at 2 07 14 PM" src="https://user-images.githubusercontent.com/77873928/185554099-fd539f0c-4941-4d90-88a4-af5b7d557d2e.png">
